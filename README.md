@@ -33,4 +33,4 @@ public class TestName : MonoBehaviour
 ## Make your own template
 Create any kind of text file. .txt is will be the easiest one.  
 Place `%%` before and after your variables. (see [sample template](https://github.com/Elysia-ff/CodeGenerator/blob/main/Assets/CodeGenerator/Editor/sample%20template.txt))  
-Only alphabets, numbers, underscore and a space allowd! [regex](https://github.com/Elysia-ff/CodeGenerator/blob/f62877d7f1c67e91c05549d370f4361a228a1502/Assets/CodeGenerator/Editor/CodeGenerator.cs#L12)
+Only alphabets, numbers, underscore and a space allowed! [regex](https://github.com/Elysia-ff/CodeGenerator/blob/f62877d7f1c67e91c05549d370f4361a228a1502/Assets/CodeGenerator/Editor/CodeGenerator.cs#L12)
