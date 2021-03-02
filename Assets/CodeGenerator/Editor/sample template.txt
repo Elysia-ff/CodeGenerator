@@ -1,0 +1,14 @@
+﻿using UnityEngine;
+
+public class %%ClassName%% : MonoBehaviour
+{
+    private void Awake()
+    {
+        Debug.Log("Awake");
+    }
+
+    private void %%MethodName%%()
+    {
+        Debug.Log("%%MethodName%%");
+    }
+}
